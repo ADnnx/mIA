@@ -5,6 +5,6 @@ TFM 2020
   - Experimento #1 Modelo AR
   - Experimento #2 Modelo Sarimax
 - Predicciones Multivariado
-  - Experimento #3 Red Neuronal Recurrente GRU
-    https://drive.google.com/file/d/1NabQzaTqKyTWjCGS4Thj7lNAQQHP8jrU/view?usp=sharing 
+  - Experimento #3 [Red Neuronal Recurrente GRU](https://drive.google.com/file/d/1NabQzaTqKyTWjCGS4Thj7lNAQQHP8jrU/view?usp=sharing)
+    
  
