@@ -1,6 +1,7 @@
 # mIA
-TFM 2020
-Predicción de la calidad del aire en Medellín (Colombia) usando Inteligencia Artificial sobre datos abiertos
+TFM 2020 \
+Predicción de la calidad del aire en Medellín (Colombia) usando Inteligencia Artificial sobre datos abiertos \
+Notebook Google Colaboratory \
 - Prediciones Univariado
   - Experimento #1 [Modelo AR](https://drive.google.com/file/d/1sqIQvG7r9M0dJPoJ4BjazbslbqldkNxX/view?usp=sharing)
   - Experimento #2 [Modelo Sarima](https://drive.google.com/file/d/1m-XcxA4AhgjbjJ5O0QYsuRM2RKTNhf6M/view?usp=sharing)
