@@ -1,7 +1,7 @@
 # mIA
 TFM 2020
 
-Prediciones Univariado
+- Prediciones Univariado
   - Experimento #1 Modelo AR
   - Experimento #2 Modelo Sarimax
 - Predicciones Multivariado
